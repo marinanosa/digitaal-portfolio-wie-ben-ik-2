@@ -13,7 +13,6 @@ Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
  * een foto van jezelf waar je herkenbaar op staat;
  * een pagina over "wie ben ik" inclusief je hobbies (met foto's);
 * Jouw portfolio bevat een pagina "beroep.html" over het beroep waarvoor je opgeleid wordt (jouw toekomstbeeld);
-* Jouw portfolio bevat een pagina "nieuws.html" met een lijst met vijf of meer nieuwberichten over actuele ontwikkelingen binnen je vakgebied;
 * Jouw portfolio is goed te bekijken op een smartphone (*);
 * Jouw portfolio is op internet opvraagbaar;
 * Je hebt, na het op internet zetten, alle links op alle pagina's getest;
